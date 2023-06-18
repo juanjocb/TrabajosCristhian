@@ -1,6 +1,6 @@
 # Ejercicios-basicos-de-Java-Estructuras-de-Control-
 
-En este proyecto podras encontrar 4 ejercicios donde haremos uso de las estructuras de control tales como:
+En esta carpeta podras encontrar 4 ejercicios donde haremos uso de las estructuras de control tales como:
 
 - Array
 - Arraylist
@@ -14,4 +14,4 @@ Hay varios ejemplos:
               por CLAVE que es el *codigo de la mascota* y el VALOR que es un ArrayList que guarda toda la información de dicha mascota. Mediante un menu tendras varios tipos de opciones para interactuar
               con el sistema.
   
-  - EjercicioPaises: 
+  - EjercicioPaises: En este proyecto encontraras un menu en el cual podras registrar paises con sus respectivas ciudades. Usando de igual forma HashMap y ArrayList para almacenar los datos.
